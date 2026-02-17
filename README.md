@@ -40,7 +40,7 @@ Lakukan langkah-langkah berikut untuk mengkompilasi program bila perlu dikompila
 2. Arahkan direktori aktif ke root folder proyek ini.
 3. Jalankan perintah kompilasi berikut:
 
-    javac -d bin src/QueensSolver.java
+    javac -d bin src/SolverGameQueens.java
 
 Perintah ini akan membaca kode dari folder src dan meletakkan hasil kompilasinya ke dalam folder bin. 
 
@@ -48,7 +48,7 @@ Perintah ini akan membaca kode dari folder src dan meletakkan hasil kompilasinya
 
 Setelah kompilasi berhasil, Anda dapat menjalankan dan menggunakan program dengan perintah berikut dari root direktori:
 
-    java -cp bin QueensSolver
+    java -cp bin SolverGameQueens
 
 **Panduan Penggunaan:**
 1. Program akan memberikan pengguna sebuah arahan pada terminal untuk memilih file test case berekstensi .txt.
