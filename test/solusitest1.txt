@@ -1,0 +1,7 @@
+A a A B 
+A A B b 
+c C D B 
+C D d D 
+
+Waktu eksekusi: 0 ms
+Total iterasi: 115

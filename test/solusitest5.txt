@@ -1,0 +1,12 @@
+A A A B B C C c D 
+A B B B b C E C D 
+A B B B D C e C D 
+A a A B D C C C D 
+B B B B D d D D D 
+F G G g D D H D D 
+f G I G D D H D D 
+F G i G D D H D D 
+F G G G D D H H h 
+
+Waktu eksekusi: 4172 ms
+Total iterasi: 323741637

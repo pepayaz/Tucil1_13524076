@@ -1,0 +1,8 @@
+a A B B C 
+A B b C C 
+D D B C c 
+D d E E C 
+D E E e E 
+
+Waktu eksekusi: 0 ms
+Total iterasi: 359
